@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code",
+  "version": "0.0.0",
+  "description": "Repo for my participation in the Advent of Code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel H. Alcojor",
+  "license": "ISC"
+}
